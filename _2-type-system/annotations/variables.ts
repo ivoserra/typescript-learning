@@ -1,5 +1,5 @@
 // type annotation
-let age: number = 3
+let ages: number = 3
 
 
 let firstName: string = 'John';
@@ -29,12 +29,12 @@ let product:{name:string, price:number} = {name:'pen', price:15}
 const printer:(content:string) => void = (content:string) => console.log(content)
 
 
-// type inference
-// TypeScript guesses the type
+// type Inference
+// Is the system that TypeScript uses to guess what the type is.
 
 // functions that returns the 'any' type
 const place = '{"lat":45, "lon":-70}';
-const newLocation:{lat:number; lon:number} = JSON.parse(place)
+const newLocation:{ lat:number; lon:number } = JSON.parse(place)
 console.log(newLocation)
 
 
