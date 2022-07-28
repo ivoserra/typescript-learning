@@ -26,9 +26,14 @@ Ivo Serra, Berlin 26th July 2022
 ### Shipment-tracking project: DOM wih typescript
 We will generate randomly a cargo shipment destination and we will show on map with marker.
 
-Webpack installed with teacher.
+Webpack, ts config with teacher.
+Faker
+google maps
+google cloud project 
 
-Ivo Serra, July 2022
+* this project is only syntax focus. Did not made a google cloud account for personal reasons to be fully functional.
+
+Ivo Serra, 28th July 2022
 
 ----
 

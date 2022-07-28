@@ -6,14 +6,14 @@ Project structure
 
 We will generate randomly a cargo shipment destination and we will show on map with marker.
 
-Map.ts
-destination.ts
-cargo.ts
+- Generate Random data with Faker
 
 
 webpack config with teacher.
 
-index.ts
+This project is only syntax focus.
+It does not run properly since I needed to make an account on google cloud thats asks for my credit card. 
+I did not agree with it.
 
 
 
