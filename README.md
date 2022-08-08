@@ -37,3 +37,7 @@ Ivo Serra, 28th July 2022
 
 ----
 
+### React-redux
+
+redux, react-redux axios redux-thunk
+
